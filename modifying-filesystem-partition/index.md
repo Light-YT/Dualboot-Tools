@@ -35,4 +35,4 @@ Now we have to move /private/var to new Data partition:
 
 ``mv -v /mnt1/private/var/* /mnt2``
 
-Next part →[ no-effaceable-storage](light-yt.github.io/no-effaceable-storage/)
+Next part →[ no-effaceable-storage](https://light-yt.github.io/no-effaceable-storage)
