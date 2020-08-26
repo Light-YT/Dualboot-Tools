@@ -1,18 +1,18 @@
-# [LightSn0w](https://light-yt/LightSn0w)
+# [LightSn0w](https://light-yt.github.io/LightSn0w)
 
 
 <hr>
 
 
 
-# [PsychoBreak](https://light-yt/PsychoBreak)
+# [PsychoBreak](https://light-yt.github.io/PsychoBreak)
 
 
 <hr>
 
 
 
-# [Semi-Jailbreak](https://light-yt/Semi-Jailbreak)
+# [Semi-Jailbreak](https://light-yt.github.io/Semi-Jailbreak)
 
 
 <hr>
