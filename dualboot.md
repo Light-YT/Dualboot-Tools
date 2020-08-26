@@ -29,3 +29,6 @@ In this little blog I would like to teach you how to do the DualBoot of iOS 13
 # [First boot](https://light-yt.github.io/first-boot)
 
 <hr>
+
+
+credits [dualbootfun](https://github.com/dualbootfun), [Ralph0045](https://github.com/Ralph0045), [Merculous](https://github.com/Merculous), [marijuanARM](https://github.com/marijuanARM), [GhostHalston](https://github.com/GhostHalston), [Light-YT](https://github.com/Light-YT/) 
