@@ -3,9 +3,13 @@ In this little blog I would like to teach you how to do the DualBoot of iOS 13
 
 # Requirements:
 1) 64-bit devices only
+
 2) MacOS
+
 3) A 64bit jailbroken iPhone
+
 4) ipwndfu fork of @LinusHenze (or any utility to place device in pwned DFU mode)
+
 5) A disassembler (I will use IDA)
 
 <hr>
