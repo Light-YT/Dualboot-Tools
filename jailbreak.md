@@ -12,7 +12,7 @@
 
 
 
-# [Electra13](https://light-yt.github.io/Electra13)
+# [Electra13](https://light-yt.github.io/electra/releases)
 
 
 <hr>
