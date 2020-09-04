@@ -12,7 +12,7 @@
 
 
 
-# [Semi-Jailbreak](https://light-yt.github.io/Semi-Jailbreak)
+# [Electra13](https://light-yt.github.io/Electra13)
 
 
 <hr>
